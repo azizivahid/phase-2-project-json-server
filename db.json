@@ -1,0 +1,64 @@
+{
+    "books": [
+      {
+        "title": "SPARRING PARTNERS",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780385549325.jpg",
+        "author": "John Grisham",
+        "description": "Three novellas: “Homecoming,” “Strawberry Moon” and “Sparring Partners.”",
+        "publisher": "Doubleday",
+        "rank": 2,
+        "rank_last_week": 2,
+        "weeks_on_list": 5,
+        "primary_isbn10": "0385549326",
+        "list": "have-read",
+        "review": "Meh",
+        "rating": 5,
+        "id": 2
+      },
+      {
+        "title": "THE MEASURE",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780063204201.jpg",
+        "author": "Nikki Erlick",
+        "description": "People around the world receive a small wooden box telling them the exact number of years they will live.",
+        "publisher": "Morrow",
+        "rank": 6,
+        "rank_last_week": 0,
+        "weeks_on_list": 1,
+        "primary_isbn10": "0063204207",
+        "list": "have-read",
+        "review": "",
+        "rating": 0,
+        "id": 4
+      },
+      {
+        "title": "THE HOUSE ACROSS THE LAKE",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780593183199.jpg",
+        "author": "Riley Sager",
+        "description": "An actress escaping bad press goes to a Vermont lake house and uncovers secrets within a neighboring couple’s marriage.",
+        "publisher": "Dutton",
+        "rank": 4,
+        "rank_last_week": 3,
+        "weeks_on_list": 2,
+        "primary_isbn10": "0593183193",
+        "list": "have-read",
+        "review": "",
+        "rating": 0,
+        "id": 6
+      },
+      {
+        "title": "ESCAPE",
+        "book_image": "https://storage.googleapis.com/du-prd/books/images/9780316499446.jpg",
+        "author": "James Patterson and David Ellis",
+        "description": "The third book in the Billy Harney thriller series. Detective Harney goes after a billionaire crime boss and a prison escape artist.",
+        "publisher": "Little, Brown",
+        "rank": 5,
+        "rank_last_week": 4,
+        "weeks_on_list": 2,
+        "primary_isbn10": "0316499447",
+        "list": "have-read",
+        "review": "",
+        "rating": 4,
+        "id": 7
+      }
+    ]
+  }

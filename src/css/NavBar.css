@@ -1,0 +1,27 @@
+.nav-bar {
+    position: relative;
+    background: #282c34;
+    border-top: white solid 1px;
+  }
+  
+  .nav-link {
+    display: inline-block;
+    width: max-content;
+    padding: 10px;
+    margin: 0 6px 6px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center
+  }
+  
+  .login {
+    position: absolute;
+    right: 0px;
+    margin-right: 10px;
+    top: 8px;
+    width: 100px;
+    background: white;
+    border-radius: 5px;
+    border: gray solid 5px;
+    font-family: "Times New Roman", Times, serif;
+  }
